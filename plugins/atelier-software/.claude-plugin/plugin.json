@@ -1,0 +1,17 @@
+{
+  "name": "atelier-software",
+  "version": "0.1.0",
+  "description": "Run big software jobs with Claude Code like a workshop: interrogate the request, map the whole job, turn it into measurable task cards, dispatch parallel workers, and let nothing merge without an independent gate.",
+  "author": {
+    "name": "Erkan"
+  },
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "orchestration",
+    "subagents",
+    "project-management",
+    "quality-gates",
+    "software"
+  ]
+}

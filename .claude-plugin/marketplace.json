@@ -1,0 +1,15 @@
+{
+  "name": "atelier-software",
+  "description": "Run big software jobs with Claude Code like a workshop: interrogate the request, map the whole job, turn it into measurable task cards, dispatch parallel workers, and let nothing merge without an independent gate.",
+  "owner": {
+    "name": "Erkan"
+  },
+  "plugins": [
+    {
+      "name": "atelier-software",
+      "source": "./plugins/atelier-software",
+      "description": "Run big software jobs with Claude Code like a workshop: interrogate the request, map the whole job, turn it into measurable task cards, dispatch parallel workers, and let nothing merge without an independent gate.",
+      "category": "productivity"
+    }
+  ]
+}
